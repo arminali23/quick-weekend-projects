@@ -1,0 +1,7 @@
+header { visibility: hidden; }
+
+.stApp { background-color: #111; color: #eee; }
+
+[data-testid="stSidebar"] { background: #1a1a1a; }
+
+.stChatMessage { background: #1e1e1e !important; border-radius: 10px !important; }
